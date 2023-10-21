@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm DG</h1>
 <h3 align="center">A passionate frontend & backend developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-beast&label=Profile%20views&color=0e75b6&style=flat" alt="m-beast" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DG-925&label=Profile%20views&color=0e75b6&style=flat" alt="DG-925" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-beast" alt="m-beast" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DG-925" alt="DG-925" /></a> </p>
 
 - 🔭 I’m currently working on **ArabRust.net**
 
@@ -22,8 +22,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dg925"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dg925" /></a></p><br><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-beast&show_icons=true&locale=en" alt="m-beast" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DG-925&show_icons=true&locale=en" alt="DG-925" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-beast&" alt="m-beast" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DG-925&" alt="DG-925" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-beast&show_icons=true&locale=en&layout=compact" alt="m-beast" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DG-925&show_icons=true&locale=en&layout=compact" alt="DG-925" /></p>
