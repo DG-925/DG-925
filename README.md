@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DG</h1>
-<h3 align="center">A passionate frontend & backend developer from Egypt</h3>
+<h3 align="center">A passionate frontend & backend developer from Denmark</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DG-925&label=Profile%20views&color=0e75b6&style=flat" alt="DG-925" /> </p>
 
