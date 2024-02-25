@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ArabRust.net**
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **ZoneHosting**
 
 - ⚡ Fun fact **I think I am funny**
 
