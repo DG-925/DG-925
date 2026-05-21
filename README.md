@@ -101,24 +101,8 @@
 ### 📊 Real-Time GitHub Analytics & Language Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DG-925&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages Chart" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DG-925&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="DG's GitHub Stats" />
-</div>
-<br/>
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DG-925&theme=dark&hide_border=true" alt="DG's Streak Stats" />
 </div>
-
----
-
-### 🐍 Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DG-925/DG-925/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-*(Note: To make the snake eat your contributions, you will need to enable the `snk` GitHub Action in your `.github/workflows` folder!)*
-
----
 
 ### 🛠️ Current Project Matrix
 
