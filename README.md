@@ -1,132 +1,193 @@
-<h1 align="center">🎮 Hi, I'm DG</h1>
-<h3 align="center">🚀 Full-Stack Web Developer | Systems & Tool Builder | Gamer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://logiclegends.dev/"><img src="https://img.shields.io/badge/Portfolio-LogicLegends-ff5722?style=for-the-badge&logo=react" alt="Portfolio"></a>
-  <a href="https://discord.gg/YbCbcrczpf"><img src="https://img.shields.io/badge/Discord-Join_Community-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://github.com/DG-925"><img src="https://img.shields.io/badge/GitHub-DG--925-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF5722,FF9800,FF5722&height=120&section=header&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY5Mmtkc3ZidmFwY214cXN6bXpsM3g2YWpobWp2YjB2cTNndW1mbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qJpCY7ari_7e8/giphy.gif" width="600" alt="Cyberpunk Setup">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1200&color=FF5722&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+DG;Full-Stack+Dev+%7C+Tool+Architect;Discord+Plugin+Engineer;Building+What+Doesn't+Exist+Yet+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="center">
-  <strong>⚡ Coding powerful tools • Crushing PC bugs • Crafting seamless gamer experiences</strong>
-</p>
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-LogicLegends.dev-FF5722?style=for-the-badge)](https://logiclegends.dev/)
+[![Discord](https://img.shields.io/badge/💬_Discord-Join_Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YbCbcrczpf)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-DG--925-181717?style=for-the-badge)](https://github.com/DG-925)
+[![Commissions](https://img.shields.io/badge/📍_Denmark-Open_for_Commissions-22c55e?style=for-the-badge)](https://logiclegends.dev/)
+
+</div>
 
 ---
 
-### 🏆 GitHub Trophy Room
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DG-925&theme=onedark&column=7&margin-w=15&no-bg=true" alt="DG's Trophies" />
-  </a>
-</p>
+<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY5Mmtkc3ZidmFwY214cXN6bXpsM3g2YWpobWp2YjB2cTNndW1mbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qJpCY7ari_7e8/giphy.gif" />
+
+### 🧠 Who Am I?
+
+🕹️ **Gamer-turned-builder** — every bug is a bounty  
+🔧 **Tool Architect** — if it doesn't exist, it gets built  
+💬 **Discord Dev** — Vencord plugins, bots, and beyond  
+🥕 **Currently deep in CarrotCam** — phone-to-PC camera bridge  
+☕ Fueled by tea, coffee & the urge to fix everything  
+
+<br/>
+
+**`Philosophy →`** *Build niche tools that save real time for real people.*
+
+<br clear="right"/>
 
 ---
 
-### 🧠 About Me
+## 🥕 Spotlight: CarrotCam
 
-* 🕹️ **Gamer at heart**, fueled by tea, coffee, and breaking down how systems work.
-* 💻 **Main focus:** Building high-performance web applications, desktop tools, and unique game assets.
-* 🛠️ **The Problem Solver:** If a PC issue or game launcher is being annoying, I build a script or a dedicated app to fix it.
-* 🚀 **Philosophy:** Creating unique, niche utilities that don't exist yet—saving time for players and devs alike.
+<div align="center">
 
----
+```
+╔══════════════════════════════════════════════════════════════╗
+║                        🥕 CARROTCAM                         ║
+║         Your phone. Your PC. Zero-hassle camera bridge.      ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-### ⚡ Developer Quirks & Fun Facts
+</div>
 
-* 🎨 **Design Stance:** I strictly prefer clean vacuum effects over cluttered steampunk gears, and my aesthetic stays loyal to the jam jar palette (Red, Purple, Orange, and Yellow).
-* 🍉 **3D Assets:** If it's a watermelon, it belongs in a blocky green box shape. No exceptions.
-* 🤝 **Current Focus:** Building robust web experiences at **LogicLegends** and crafting optimized 3D environments for **Make Jam Offline**.
+> **CarrotCam** is a cross-platform utility that transforms your smartphone into a wireless (or USB) webcam for your PC — clean UI, low latency, no driver hell.
 
----
-
-### 🧰 Tech Stack & Ecosystem
+```
+ 📱 Phone App   ──── Wi-Fi / USB ────►   🔗 CarrotCam   ────►   💻 Virtual Cam
+ (Android/iOS)         Stream              Bridge App           (OBS / Teams / Zoom)
+```
 
 <details open>
-<summary><strong>💻 Languages & Core</strong></summary>
-<br />
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp" alt="C#" />
-  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus" alt="C++" />
-  <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c" alt="C" />
-  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" alt="CSS3" />
-</p>
+<summary><strong>📋 Feature Roadmap</strong></summary>
+
+<br/>
+
+| Feature | Platform | Status |
+|:--------|:--------:|:------:|
+| 📡 Wi-Fi Streaming | Cross-platform | 🔵 In Development |
+| 🔌 USB Tethering Mode | Android / iOS | 🔵 Planned |
+| 🎛️ PC Client (Tauri) | Windows / macOS | 🔵 In Development |
+| 📱 Mobile App | Android / iOS | 🔵 In Development |
+| 🎨 Clean Minimal UI | Both | ✅ Designed |
+| 🎚️ Quality / Resolution Controls | PC Client | 🔵 Planned |
+| 🖥️ Virtual Camera Driver | Windows | 🔵 Researching |
+
+</details>
+
+**Stack:** `Tauri` · `TypeScript` · `React Native` · `WebRTC` · `Rust`
+
+---
+
+## 🗂️ Full Project Matrix
+
+| Project | Description | Stack | Status |
+|:--------|:------------|:------|:------:|
+| [🥕 **CarrotCam**](https://github.com/DG-925) | Phone-to-PC wireless camera bridge app | `Tauri` `React Native` `TS` `WebRTC` | 🔵 Building |
+| [🔧 **Steam Desktop Icon Fixer**](https://github.com/DG-925/Steam-Desktop-Icon-Fixer) | Auto-repairs broken Steam icons post-reinstall | `Python` | 🟢 Stable |
+| [🌐 **LogicLegends**](https://logiclegends.dev/) | Full-stack portfolio & commission platform | `Next.js` `MongoDB` `Vercel` | 🟡 Active |
+| [🎬 **MovieDex**](https://github.com/DG-925) | Catch, collect & trade iconic movies in Discord | `TypeScript` | 🟡 Active |
+| [🔌 **PortManager**](https://github.com/DG-925/PortManager) | C# network port management utility | `C#` | 🟢 Stable |
+| [🌫️ **Quick-Blur**](https://github.com/DG-925/Quick-Blur) | Hotkey-triggered full Discord window blur (Vencord) | `PowerShell` | 🟢 Stable |
+| [⌨️ **Mechanical-Keyboard-Sounds**](https://github.com/DG-925/Mechanical-Keyboard-Sounds) | Synthetic mech keyboard sounds while typing in Discord | `PowerShell` | 🟢 Stable |
+| [😂 **RandomEmojiTyper**](https://github.com/DG-925/RandomEmojiTyper) | Appends a random emoji to every Discord message sent | `JavaScript` | 🟢 Stable |
+| [🍓 **Make Jam Offline**](https://github.com/DG-925) | Roblox 3D environment with jam-jar aesthetic | `Roblox Studio` | 🔵 Building |
+
+> 🟢 Stable &nbsp;·&nbsp; 🟡 Active Development &nbsp;·&nbsp; 🔵 In Progress &nbsp;·&nbsp; ⚫ Archived
+
+---
+
+## 🎮 Discord Plugin Suite
+
+> A growing collection of Vencord plugins that enhance the Discord experience.
+
+```
+ Vencord Ecosystem ─────────────────────────────────────────────
+   🌫️ Quick-Blur          → Blur Discord on demand via hotkey
+   ⌨️ Mechanical-Keyboard  → Satisfying mech sounds while typing
+   😂 RandomEmojiTyper    → Chaos in every message sent
+```
+
+---
+
+## 🧰 Tech Stack
+
+<details open>
+<summary><strong>💻 Languages</strong></summary>
+<br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=512BD4)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Rust](https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=FF5722)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+
 </details>
 
 <details>
 <summary><strong>🧩 Frameworks & Libraries</strong></summary>
-<br />
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/Tauri-black?style=for-the-badge&logo=tauri" alt="Tauri" />
-  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" alt="Node.js" />
-  <img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap" alt="Bootstrap" />
-</p>
+<br/>
+
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tauri](https://img.shields.io/badge/Tauri-0D1117?style=for-the-badge&logo=tauri&logoColor=FFC131)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+
 </details>
 
 <details>
-<summary><strong>🗄️ Databases & Automation Workflow</strong></summary>
-<br />
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Zapier-black?style=for-the-badge&logo=zapier" alt="Zapier" />
-</p>
+<summary><strong>🗄️ Databases & Automation</strong></summary>
+<br/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Zapier](https://img.shields.io/badge/Zapier-0D1117?style=for-the-badge&logo=zapier&logoColor=FF4A00)
+
 </details>
 
 <details>
-<summary><strong>⚙️ Ecosystem & Tools</strong></summary>
-<br />
-<p align="left">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" alt="Git" />
-  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" alt="Vercel" />
-  <img src="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=trello" alt="Trello" />
-  <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows" alt="Windows" />
-</p>
+<summary><strong>⚙️ Tools & Platforms</strong></summary>
+<br/>
+
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=trello&logoColor=0052CC)
+![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D4)
+
 </details>
 
 ---
 
-### 📊 Real-Time GitHub Analytics & Language Metrics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DG-925&theme=dark&hide_border=true" alt="DG's Streak Stats" />
+
+<img src="https://streak-stats.demolab.com?user=DG-925&theme=dark&hide_border=true&background=0D1117&stroke=FF5722&ring=FF5722&fire=FF9800&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF5722&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DG-925&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF5722&line=FF9800&point=FFFFFF&area=true&area_color=FF572233" alt="Contribution Graph" />
+
 </div>
 
-### 🛠️ Current Project Matrix
-
-| Project | Status | Tech Stack | Target Audience |
-| :--- | :--- | :--- | :--- |
-| **🔧 Steam Icon Fixer** | 🟢 Stable / Active | `Tauri` `C#` `TypeScript` | PC Gamers / Steam Users |
-| **🌐 LogicLegends Portfolio** | 🟡 Active | `Next.js` `MongoDB` `Vercel` | Clients / Web Users |
-| **🍓 Make Jam Offline** | 🟢 In Development | `Roblox Studio` `3D Renders` | Gamers |
-| **⚡ Workflow Automation** | 🔵 Optimization | `Zapier` `Node.js` | Systems/Dev Pipelines |
-
-#### 📂 Highlighted Feature: Steam Icon Fixer
-> A dedicated utility that instantly scans and restores broken or missing Steam game shortcuts and library icons post-reinstallation.
-- **Auto-Detection:** Automatically maps local game manifests to missing `.ico` pathways.
-- **Smart Restoration:** Instantly fixes desktop shortcut layouts seamlessly.
 
 ---
 
-### 🧠 Dev Quote
+<div align="center">
 
-> "If a problem exists, there is always a way to code a solution. If it doesn't exist, build it anyway."
+**`DG's Law`**
 
----
+> *"If a problem exists, there's always a way to code a solution.*
+> *If it doesn't exist — build it anyway."*
 
-### 👀 Profile Interaction Counter
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DG-925&style=for-the-badge&color=ff5722" alt="Visitor Counter" />
-</p>
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=DG-925&style=for-the-badge&color=FF5722&label=PROFILE+VIEWS)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF5722,FF9800,FF5722&height=80&section=footer&animation=fadeIn" />
+
+</div>
