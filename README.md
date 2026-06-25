@@ -6,10 +6,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-LogicLegends.dev-FF5722?style=for-the-badge)](https://logiclegends.dev/)
-[![Discord](https://img.shields.io/badge/💬_Discord-Join_Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YbCbcrczpf)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-DG--925-181717?style=for-the-badge)](https://github.com/DG-925)
-[![Commissions](https://img.shields.io/badge/📍_Denmark-Open_for_Commissions-22c55e?style=for-the-badge)](https://logiclegends.dev/)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-LogicLegends.dev-FF5722?style=for-the-badge)](https://logiclegends.dev/)
+[![Discord](https://img.shields.io/badge/%F0%9F%92%AC_Discord-Join_Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YbCbcrczpf)
+[![GitHub](https://img.shields.io/badge/%F0%9F%90%99_GitHub-DG--925-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DG-925)
+[![Commissions](https://img.shields.io/badge/%F0%9F%93%8D_Denmark-Open_for_Commissions-22c55e?style=for-the-badge)](https://logiclegends.dev/)
 
 </div>
 
@@ -56,8 +56,6 @@
 <details open>
 <summary><strong>📋 Feature Roadmap</strong></summary>
 
-<br/>
-
 | Feature | Platform | Status |
 |:--------|:--------:|:------:|
 | 📡 Wi-Fi Streaming | Cross-platform | 🔵 In Development |
@@ -74,11 +72,12 @@
 
 ---
 
-## 🗂️ Full Project Matrix
+## 🗂️ Project Matrix
 
 | Project | Description | Stack | Status |
 |:--------|:------------|:------|:------:|
-| [🥕 **CarrotCam**](https://github.com/DG-925) | Phone-to-PC wireless camera bridge app | `Tauri` `React Native` `TS` `WebRTC` | 🔵 Building |
+| [🥕 **CarrotCam**](https://github.com/DG-925) | Phone-to-PC wireless camera bridge | `Tauri` `React Native` `TS` `WebRTC` | 🔵 Building |
+| [❌ **Tic Tac Toe**](https://github.com/DG-925/Tic-Tac-Toe) | Desktop XO game vs AI — 3 difficulties | `Python` `pywebview` `HTML/CSS/JS` | 🟢 Stable |
 | [🔧 **Steam Desktop Icon Fixer**](https://github.com/DG-925/Steam-Desktop-Icon-Fixer) | Auto-repairs broken Steam icons post-reinstall | `Python` | 🟢 Stable |
 | [🌐 **LogicLegends**](https://logiclegends.dev/) | Full-stack portfolio & commission platform | `Next.js` `MongoDB` `Vercel` | 🟡 Active |
 | [🎬 **MovieDex**](https://github.com/DG-925) | Catch, collect & trade iconic movies in Discord | `TypeScript` | 🟡 Active |
@@ -109,7 +108,6 @@
 
 <details open>
 <summary><strong>💻 Languages</strong></summary>
-<br/>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -124,7 +122,6 @@
 
 <details>
 <summary><strong>🧩 Frameworks & Libraries</strong></summary>
-<br/>
 
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -138,7 +135,6 @@
 
 <details>
 <summary><strong>🗄️ Databases & Automation</strong></summary>
-<br/>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Zapier](https://img.shields.io/badge/Zapier-0D1117?style=for-the-badge&logo=zapier&logoColor=FF4A00)
@@ -147,7 +143,6 @@
 
 <details>
 <summary><strong>⚙️ Tools & Platforms</strong></summary>
-<br/>
 
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
@@ -171,7 +166,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DG-925&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF5722&line=FF9800&point=FFFFFF&area=true&area_color=FF572233" alt="Contribution Graph" />
 
 </div>
-
 
 ---
 
