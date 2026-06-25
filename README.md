@@ -22,7 +22,6 @@
 🕹️ **Gamer-turned-builder** — every bug is a bounty  
 🔧 **Tool Architect** — if it doesn't exist, it gets built  
 💬 **Discord Dev** — Vencord plugins, bots, and beyond  
-🥕 **Currently deep in CarrotCam** — phone-to-PC camera bridge  
 ☕ Fueled by tea, coffee & the urge to fix everything  
 
 <br/>
@@ -33,50 +32,10 @@
 
 ---
 
-## 🥕 Spotlight: CarrotCam
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                        🥕 CARROTCAM                         ║
-║         Your phone. Your PC. Zero-hassle camera bridge.      ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-> **CarrotCam** is a cross-platform utility that transforms your smartphone into a wireless (or USB) webcam for your PC — clean UI, low latency, no driver hell.
-
-```
- 📱 Phone App   ──── Wi-Fi / USB ────►   🔗 CarrotCam   ────►   💻 Virtual Cam
- (Android/iOS)         Stream              Bridge App           (OBS / Teams / Zoom)
-```
-
-<details open>
-<summary><strong>📋 Feature Roadmap</strong></summary>
-
-| Feature | Platform | Status |
-|:--------|:--------:|:------:|
-| 📡 Wi-Fi Streaming | Cross-platform | 🔵 In Development |
-| 🔌 USB Tethering Mode | Android / iOS | 🔵 Planned |
-| 🎛️ PC Client (Tauri) | Windows / macOS | 🔵 In Development |
-| 📱 Mobile App | Android / iOS | 🔵 In Development |
-| 🎨 Clean Minimal UI | Both | ✅ Designed |
-| 🎚️ Quality / Resolution Controls | PC Client | 🔵 Planned |
-| 🖥️ Virtual Camera Driver | Windows | 🔵 Researching |
-
-</details>
-
-**Stack:** `Tauri` · `TypeScript` · `React Native` · `WebRTC` · `Rust`
-
----
-
 ## 🗂️ Project Matrix
 
 | Project | Description | Stack | Status |
 |:--------|:------------|:------|:------:|
-| [🥕 **CarrotCam**](https://github.com/DG-925) | Phone-to-PC wireless camera bridge | `Tauri` `React Native` `TS` `WebRTC` | 🔵 Building |
 | [❌ **Tic Tac Toe**](https://github.com/DG-925/Tic-Tac-Toe) | Desktop XO game vs AI — 3 difficulties | `Python` `pywebview` `HTML/CSS/JS` | 🟢 Stable |
 | [🔧 **Steam Desktop Icon Fixer**](https://github.com/DG-925/Steam-Desktop-Icon-Fixer) | Auto-repairs broken Steam icons post-reinstall | `Python` | 🟢 Stable |
 | [🌐 **LogicLegends**](https://logiclegends.dev/) | Full-stack portfolio & commission platform | `Next.js` `MongoDB` `Vercel` | 🟡 Active |
