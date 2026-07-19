@@ -37,9 +37,9 @@
 <table>
 <tr>
 <td width="160" align="center">
-<img src="https://raw.githubusercontent.com/DG-925/CarrotCam/main/assets/icon.png" width="120" /><br/>
+<img src="https://img.shields.io/badge/🥕-CarrotCam-FF5722?style=for-the-badge&labelColor=FF5722" /><br/>
 <strong>CarrotCam</strong><br/>
-<sub>v0.9.1 — Latest</sub>
+<a href="https://github.com/DG-925/CarrotCam/releases/latest"><img src="https://img.shields.io/github/v/release/DG-925/CarrotCam?style=flat-square&color=22c55e" alt="Latest Release" /></a>
 </td>
 <td>
 
@@ -63,7 +63,8 @@ Turn your Android phone into a wireless webcam for your PC. No drivers to instal
 [Android]  CarrotCamMobile.apk     → Install & open
 ```
 
-**Status:** 🟢 Stable — [Download Latest](https://github.com/DG-925/CarrotCam/releases/latest)
+[![Download PC](https://img.shields.io/badge/%F0%9F%92%BB_Download_PC-FF5722?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DG-925/CarrotCam/releases/latest)
+[![Download Android](https://img.shields.io/badge/%F0%9F%93%B1_Download_Android-22c55e?style=for-the-badge&logo=android&logoColor=white)](https://github.com/DG-925/CarrotCam/releases/latest)
 
 </td>
 </tr>
@@ -90,16 +91,43 @@ Turn your Android phone into a wireless webcam for your PC. No drivers to instal
 
 <table>
 <tr>
-<td width="30" align="center"><img src="https://raw.githubusercontent.com/nicehash/Vencord/refs/heads/main/src/assets/icons/blur.svg" width="20" /></td>
-<td><strong><a href="https://github.com/DG-925/Quick-Blur">Quick-Blur</a></strong><br/><sub>Hotkey-triggered full Discord window blur — one keypress to go incognito</sub></td>
+<td align="center" width="40">
+
+**🌫️**
+
+</td>
+<td>
+
+**[Quick-Blur](https://github.com/DG-925/Quick-Blur)**  
+*Hotkey-triggered full Discord window blur — one keypress to go incognito*
+
+</td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/282/282130.png" width="20" /></td>
-<td><strong><a href="https://github.com/DG-925/Mechanical-Keyboard-Sounds">Mechanical-Keyboard-Sounds</a></strong><br/><sub>Satisfying mech keyboard sounds while you type in Discord</sub></td>
+<td align="center">
+
+**⌨️**
+
+</td>
+<td>
+
+**[Mechanical-Keyboard-Sounds](https://github.com/DG-925/Mechanical-Keyboard-Sounds)**  
+*Satisfying mech keyboard sounds while you type in Discord*
+
+</td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/1046/1046769.png" width="20" /></td>
-<td><strong><a href="https://github.com/DG-925/RandomEmojiTyper">RandomEmojiTyper</a></strong><br/><sub>Appends a random emoji to every Discord message sent — pure chaos</sub></td>
+<td align="center">
+
+**😂**
+
+</td>
+<td>
+
+**[RandomEmojiTyper](https://github.com/DG-925/RandomEmojiTyper)**  
+*Appends a random emoji to every Discord message sent — pure chaos*
+
+</td>
 </tr>
 </table>
 
@@ -159,7 +187,20 @@ Turn your Android phone into a wireless webcam for your PC. No drivers to instal
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DG-925&theme=dark&hide_border=true&background=0D1117&stroke=FF5722&ring=FF5722&fire=FF9800&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF5722&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak" />
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=DG-925&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5722&icon_color=FF9800&text_color=FFFFFF&ring_color=FF5722&include_all_commits=true" width="400" alt="GitHub Stats" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DG-925&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5722&text_color=FFFFFF&langs_count=8&card_width=400" width="400" alt="Top Languages" /></td>
+</tr>
+</table>
+
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DG-925&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4&bg_color=0D1117)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=DG-925&theme=radical&hide_border=true&background=0D1117&stroke=FF5722&ring=FF5722&fire=FF9800&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF5722&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak" />
 
 <br/><br/>
 
