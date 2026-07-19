@@ -189,14 +189,10 @@ Turn your Android phone into a wireless webcam for your PC. No drivers to instal
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=DG-925&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5722&icon_color=FF9800&text_color=FFFFFF&ring_color=FF5722&include_all_commits=true" width="400" alt="GitHub Stats" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DG-925&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5722&text_color=FFFFFF&langs_count=8&card_width=400" width="400" alt="Top Languages" /></td>
+<td><img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=DG-925&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5722&icon_color=FF9800&text_color=FFFFFF&ring_color=FF5722&include_all_commits=true" width="400" alt="GitHub Stats" /></td>
+<td><img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=DG-925&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5722&text_color=FFFFFF&langs_count=8&card_width=400" width="400" alt="Top Languages" /></td>
 </tr>
 </table>
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DG-925&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4&bg_color=0D1117)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
