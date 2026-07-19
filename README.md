@@ -32,6 +32,45 @@
 
 ---
 
+## ⭐ Featured Project
+
+<table>
+<tr>
+<td width="160" align="center">
+<img src="https://raw.githubusercontent.com/DG-925/CarrotCam/main/assets/icon.png" width="120" /><br/>
+<strong>CarrotCam</strong><br/>
+<sub>v0.9.1 — Latest</sub>
+</td>
+<td>
+
+### 🥕 [CarrotCam](https://github.com/DG-925/CarrotCam) — Phone as Wireless Webcam
+
+Turn your Android phone into a wireless webcam for your PC. No drivers to install, no cables required.
+
+**Key Features:**
+- 📷 **MJPEG streaming** — low-latency video over USB or WiFi
+- 🪞 **Virtual Camera** — works in Zoom, Discord, OBS, Teams & more
+- 🎬 **MP4 Recording** — capture directly from the stream
+- 🔲 **Screenshot + Overlay** — real-time overlays with customizable text/grid/mirror
+- 🎮 **Discord Rich Presence** — show your camera status on Discord
+- 🔄 **Auto-update** — self-updating via GitHub releases
+- 📱 **Cross-platform** — Desktop (Windows) + Mobile (Android)
+
+**Stack:** `C++` `Qt 6` `FFmpeg` `DirectShow` `Android NDK`
+
+```
+[Windows]  CarrotCam-win64.zip     → Extract & run CarrotCam.exe
+[Android]  CarrotCamMobile.apk     → Install & open
+```
+
+**Status:** 🟢 Stable — [Download Latest](https://github.com/DG-925/CarrotCam/releases/latest)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🗂️ Project Matrix
 
 | Project | Description | Stack | Status |
@@ -39,12 +78,7 @@
 | [❌ **Tic Tac Toe**](https://github.com/DG-925/Tic-Tac-Toe) | Desktop XO game vs AI — 3 difficulties | `Python` `pywebview` `HTML/CSS/JS` | 🟢 Stable |
 | [🔧 **Steam Desktop Icon Fixer**](https://github.com/DG-925/Steam-Desktop-Icon-Fixer) | Auto-repairs broken Steam icons post-reinstall | `Python` | 🟢 Stable |
 | [🌐 **LogicLegends**](https://logiclegends.dev/) | Full-stack portfolio & commission platform | `Next.js` `MongoDB` `Vercel` | 🟡 Active |
-| [🎬 **MovieDex**](https://github.com/DG-925) | Catch, collect & trade iconic movies in Discord | `TypeScript` | 🟡 Active |
 | [🔌 **PortManager**](https://github.com/DG-925/PortManager) | C# network port management utility | `C#` | 🟢 Stable |
-| [🌫️ **Quick-Blur**](https://github.com/DG-925/Quick-Blur) | Hotkey-triggered full Discord window blur (Vencord) | `PowerShell` | 🟢 Stable |
-| [⌨️ **Mechanical-Keyboard-Sounds**](https://github.com/DG-925/Mechanical-Keyboard-Sounds) | Synthetic mech keyboard sounds while typing in Discord | `PowerShell` | 🟢 Stable |
-| [😂 **RandomEmojiTyper**](https://github.com/DG-925/RandomEmojiTyper) | Appends a random emoji to every Discord message sent | `JavaScript` | 🟢 Stable |
-| [🍓 **Make Jam Offline**](https://github.com/DG-925) | Roblox 3D environment with jam-jar aesthetic | `Roblox Studio` | 🔵 Building |
 
 > 🟢 Stable &nbsp;·&nbsp; 🟡 Active Development &nbsp;·&nbsp; 🔵 In Progress &nbsp;·&nbsp; ⚫ Archived
 
@@ -54,12 +88,20 @@
 
 > A growing collection of Vencord plugins that enhance the Discord experience.
 
-```
- Vencord Ecosystem ─────────────────────────────────────────────
-   🌫️ Quick-Blur          → Blur Discord on demand via hotkey
-   ⌨️ Mechanical-Keyboard  → Satisfying mech sounds while typing
-   😂 RandomEmojiTyper    → Chaos in every message sent
-```
+<table>
+<tr>
+<td width="30" align="center"><img src="https://raw.githubusercontent.com/nicehash/Vencord/refs/heads/main/src/assets/icons/blur.svg" width="20" /></td>
+<td><strong><a href="https://github.com/DG-925/Quick-Blur">Quick-Blur</a></strong><br/><sub>Hotkey-triggered full Discord window blur — one keypress to go incognito</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/282/282130.png" width="20" /></td>
+<td><strong><a href="https://github.com/DG-925/Mechanical-Keyboard-Sounds">Mechanical-Keyboard-Sounds</a></strong><br/><sub>Satisfying mech keyboard sounds while you type in Discord</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/1046/1046769.png" width="20" /></td>
+<td><strong><a href="https://github.com/DG-925/RandomEmojiTyper">RandomEmojiTyper</a></strong><br/><sub>Appends a random emoji to every Discord message sent — pure chaos</sub></td>
+</tr>
+</table>
 
 ---
 
@@ -82,13 +124,12 @@
 <details>
 <summary><strong>🧩 Frameworks & Libraries</strong></summary>
 
+![Qt](https://img.shields.io/badge/Qt-0D1117?style=for-the-badge&logo=qt&logoColor=41CD52)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-0D1117?style=for-the-badge&logo=ffmpeg&logoColor=007808)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tauri](https://img.shields.io/badge/Tauri-0D1117?style=for-the-badge&logo=tauri&logoColor=FFC131)
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
 </details>
 
@@ -107,8 +148,8 @@
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=trello&logoColor=0052CC)
 ![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D4)
+![Android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84)
 
 </details>
 
