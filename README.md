@@ -11,6 +11,8 @@
 [![GitHub](https://img.shields.io/badge/%F0%9F%90%99_GitHub-DG--925-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DG-925)
 [![Commissions](https://img.shields.io/badge/%F0%9F%93%8D_Denmark-Open_for_Commissions-22c55e?style=for-the-badge)](https://logiclegends.dev/)
 
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=DG-925&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5722&icon_color=FF9800&text_color=FFFFFF&ring_color=FF5722&include_all_commits=true&count_private=true" width="0" height="0" />
+
 </div>
 
 ---
@@ -26,45 +28,40 @@
 
 <br/>
 
-**`Philosophy →`** *Build niche tools that save real time for real people.*
+<code>Philosophy →</code> *Build niche tools that save real time for real people.*
 
 <br clear="right"/>
 
 ---
 
-## ⭐ Featured Project
+## 🔥 What I'm Building
 
 <table>
 <tr>
-<td width="160" align="center">
-<img src="https://img.shields.io/badge/🥕-CarrotCam-FF5722?style=for-the-badge&labelColor=FF5722" /><br/>
-<strong>CarrotCam</strong><br/>
-<a href="https://github.com/DG-925/CarrotCam/releases/latest"><img src="https://img.shields.io/github/v/release/DG-925/CarrotCam?style=flat-square&color=22c55e" alt="Latest Release" /></a>
+<td width="50%" valign="top">
+
+### 🥕 CarrotCam
+> **Phone → Wireless Webcam**
+
+Turn your Android phone into a wireless webcam. USB or WiFi, virtual camera for Zoom/Discord/OBS, MP4 recording, Discord Rich Presence.
+
+**Stack:** `C++` `Qt 6` `FFmpeg` `DirectShow` `Android NDK`  
+**Version:** <a href="https://github.com/DG-925/CarrotCam/releases/latest"><img src="https://img.shields.io/github/v/release/DG-925/CarrotCam?style=flat-square&color=22c55e" alt="v0.1.1" /></a>
+
+[![Download PC](https://img.shields.io/badge/%F0%9F%92%BB_PC-Windows-FF5722?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DG-925/CarrotCam/releases/latest)
+[![Download Android](https://img.shields.io/badge/%F0%9F%93%B1_Mobile-Android-22c55e?style=for-the-badge&logo=android&logoColor=white)](https://github.com/DG-925/CarrotCam/releases/latest)
+
 </td>
-<td>
+<td width="50%" valign="top">
 
-### 🥕 [CarrotCam](https://github.com/DG-925/CarrotCam) — Phone as Wireless Webcam
+### 🌐 LogicLegends
+> **Portfolio & Commission Platform**
 
-Turn your Android phone into a wireless webcam for your PC. No drivers to install, no cables required.
+Full-stack platform for showcasing work and managing commissions. Clean UI, dark theme, responsive.
 
-**Key Features:**
-- 📷 **MJPEG streaming** — low-latency video over USB or WiFi
-- 🪞 **Virtual Camera** — works in Zoom, Discord, OBS, Teams & more
-- 🎬 **MP4 Recording** — capture directly from the stream
-- 🔲 **Screenshot + Overlay** — real-time overlays with customizable text/grid/mirror
-- 🎮 **Discord Rich Presence** — show your camera status on Discord
-- 🔄 **Auto-update** — self-updating via GitHub releases
-- 📱 **Cross-platform** — Desktop (Windows) + Mobile (Android)
+**Stack:** `Next.js` `React` `MongoDB` `TailwindCSS` `Vercel`  
 
-**Stack:** `C++` `Qt 6` `FFmpeg` `DirectShow` `Android NDK`
-
-```
-[Windows]  CarrotCam-win64.zip     → Extract & run CarrotCam.exe
-[Android]  CarrotCamMobile.apk     → Install & open
-```
-
-[![Download PC](https://img.shields.io/badge/%F0%9F%92%BB_Download_PC-FF5722?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DG-925/CarrotCam/releases/latest)
-[![Download Android](https://img.shields.io/badge/%F0%9F%93%B1_Download_Android-22c55e?style=for-the-badge&logo=android&logoColor=white)](https://github.com/DG-925/CarrotCam/releases/latest)
+[![Visit Site](https://img.shields.io/badge/%F0%9F%8C%90_Visit_LogicLegends-FF5722?style=for-the-badge)](https://logiclegends.dev/)
 
 </td>
 </tr>
@@ -72,34 +69,82 @@ Turn your Android phone into a wireless webcam for your PC. No drivers to instal
 
 ---
 
-## 🗂️ Project Matrix
+## 🗂️ All Projects
 
-| Project | Description | Stack | Status |
-|:--------|:------------|:------|:------:|
-| [❌ **Tic Tac Toe**](https://github.com/DG-925/Tic-Tac-Toe) | Desktop XO game vs AI — 3 difficulties | `Python` `pywebview` `HTML/CSS/JS` | 🟢 Stable |
-| [🔧 **Steam Desktop Icon Fixer**](https://github.com/DG-925/Steam-Desktop-Icon-Fixer) | Auto-repairs broken Steam icons post-reinstall | `Python` | 🟢 Stable |
-| [🌐 **LogicLegends**](https://logiclegends.dev/) | Full-stack portfolio & commission platform | `Next.js` `MongoDB` `Vercel` | 🟡 Active |
-| [🔌 **PortManager**](https://github.com/DG-925/PortManager) | C# network port management utility | `C#` | 🟢 Stable |
+<table>
+<tr>
+<td width="33%" align="center">
 
-> 🟢 Stable &nbsp;·&nbsp; 🟡 Active Development &nbsp;·&nbsp; 🔵 In Progress &nbsp;·&nbsp; ⚫ Archived
+**🥕 [CarrotCam](https://github.com/DG-925/CarrotCam)**  
+Phone → wireless webcam  
+`C++` `Qt 6` `FFmpeg` `Android NDK`  
+🟢 *Active*
+
+</td>
+<td width="33%" align="center">
+
+**🌐 [LogicLegends](https://logiclegends.dev/)**  
+Portfolio & commissions  
+`Next.js` `MongoDB` `Vercel`  
+🟡 *Active*
+
+</td>
+<td width="33%" align="center">
+
+**❌ [Tic Tac Toe](https://github.com/DG-925/Tic-Tac-Toe)**  
+Desktop XO game vs AI  
+`Python` `pywebview` `HTML/CSS/JS`  
+🟢 *Stable*
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**🔧 [Steam Desktop Icon Fixer](https://github.com/DG-925/Steam-Desktop-Icon-Fixer)**  
+Auto-repair broken icons  
+`Python`  
+🟢 *Stable*
+
+</td>
+<td align="center">
+
+**🔌 [PortManager](https://github.com/DG-925/PortManager)**  
+Network port management  
+`C#`  
+🟢 *Stable*
+
+</td>
+<td align="center">
+
+*More coming soon...*
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎮 Discord Plugin Suite
 
-> A growing collection of Vencord plugins that enhance the Discord experience.
+> Open-source Vencord plugins — install from within Vencord's plugin browser.
 
 <table>
 <tr>
-<td align="center" width="40">
+<td align="center" width="50">
 
 **🌫️**
 
 </td>
 <td>
 
-**[Quick-Blur](https://github.com/DG-925/Quick-Blur)**  
+**[Quick-Blur](https://github.com/DG-925/Quick-Blur)** · `Vencord`  
 *Hotkey-triggered full Discord window blur — one keypress to go incognito*
+
+</td>
+<td align="center">
+
+![Downloads](https://img.shields.io/badge/install-Vencord_Plugin_Browser-blue?style=flat-square)
 
 </td>
 </tr>
@@ -111,8 +156,13 @@ Turn your Android phone into a wireless webcam for your PC. No drivers to instal
 </td>
 <td>
 
-**[Mechanical-Keyboard-Sounds](https://github.com/DG-925/Mechanical-Keyboard-Sounds)**  
+**[Mechanical-Keyboard-Sounds](https://github.com/DG-925/Mechanical-Keyboard-Sounds)** · `Vencord`  
 *Satisfying mech keyboard sounds while you type in Discord*
+
+</td>
+<td align="center">
+
+![Downloads](https://img.shields.io/badge/install-Vencord_Plugin_Browser-blue?style=flat-square)
 
 </td>
 </tr>
@@ -124,8 +174,13 @@ Turn your Android phone into a wireless webcam for your PC. No drivers to instal
 </td>
 <td>
 
-**[RandomEmojiTyper](https://github.com/DG-925/RandomEmojiTyper)**  
-*Appends a random emoji to every Discord message sent — pure chaos*
+**[RandomEmojiTyper](https://github.com/DG-925/RandomEmojiTyper)** · `Vencord`  
+*Appends a random emoji to every message sent — pure chaos*
+
+</td>
+<td align="center">
+
+![Downloads](https://img.shields.io/badge/install-Vencord_Plugin_Browser-blue?style=flat-square)
 
 </td>
 </tr>
@@ -135,8 +190,9 @@ Turn your Android phone into a wireless webcam for your PC. No drivers to instal
 
 ## 🧰 Tech Stack
 
-<details open>
-<summary><strong>💻 Languages</strong></summary>
+<div align="center">
+
+**Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -147,10 +203,9 @@ Turn your Android phone into a wireless webcam for your PC. No drivers to instal
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-</details>
+<br/>
 
-<details>
-<summary><strong>🧩 Frameworks & Libraries</strong></summary>
+**Frameworks & Libraries**
 
 ![Qt](https://img.shields.io/badge/Qt-0D1117?style=for-the-badge&logo=qt&logoColor=41CD52)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-0D1117?style=for-the-badge&logo=ffmpeg&logoColor=007808)
@@ -159,18 +214,9 @@ Turn your Android phone into a wireless webcam for your PC. No drivers to instal
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 
-</details>
+<br/>
 
-<details>
-<summary><strong>🗄️ Databases & Automation</strong></summary>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Zapier](https://img.shields.io/badge/Zapier-0D1117?style=for-the-badge&logo=zapier&logoColor=FF4A00)
-
-</details>
-
-<details>
-<summary><strong>⚙️ Tools & Platforms</strong></summary>
+**Tools & Platforms**
 
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
@@ -178,8 +224,10 @@ Turn your Android phone into a wireless webcam for your PC. No drivers to instal
 ![VSCode](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D4)
 ![Android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Zapier](https://img.shields.io/badge/Zapier-0D1117?style=for-the-badge&logo=zapier&logoColor=FF4A00)
 
-</details>
+</div>
 
 ---
 
@@ -201,6 +249,30 @@ Turn your Android phone into a wireless webcam for your PC. No drivers to instal
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DG-925&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF5722&line=FF9800&point=FFFFFF&area=true&area_color=FF572233" alt="Contribution Graph" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=DG-925&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophy" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DG-925/DG-925/output/github-snake-dark.svg" alt="Snake eating contributions" width="100%" />
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="600" />
 
 </div>
 
