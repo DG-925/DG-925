@@ -133,7 +133,6 @@ Open-source [Vencord](https://github.com/Vendicated/Vencord) plugins — install
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DG-925&theme=radical&hide_border=true&background=0D1117&stroke=FF5722&ring=FF5722&fire=FF9800&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF5722&sideLabels=FFFFFF&dates=888888)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=DG-925&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DG-925&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF5722&line=FF9800&point=FFFFFF&area=true&area_color=FF572233)
 
