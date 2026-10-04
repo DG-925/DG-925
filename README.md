@@ -101,7 +101,7 @@ A full-stack **portfolio & commission platform** — showcase work, take request
 
 <img src="https://streak-stats.demolab.com?user=DG-925&hide_border=true&background=0D1117&stroke=FF5722&ring=FF5722&fire=FF9800&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF5722&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DG-925&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF5722&line=FF9800&point=FFFFFF&area=true&area_color=FF5722" alt="Contribution Activity" />
+<img width="100%" src="https://raw.githubusercontent.com/DG-925/DG-925/output/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DG-925/DG-925/output/github-snake-dark.svg" />
@@ -127,7 +127,7 @@ A full-stack **portfolio & commission platform** — showcase work, take request
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=DG-925&style=flat-square&color=FF5722&label=profile+views)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=DG-925.DG-925&left_text=profile%20views&left_color=0D1117&right_color=FF5722)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9800,100:FF5722&height=100&section=footer" width="100%" />
 

@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Profile Images
 
 on:
   schedule:
@@ -14,21 +14,29 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snk/svg-only@v3
+      - name: Contribution snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: DG-925
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      - name: 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: DG-925
+
       - name: Push to output branch
         run: |
+          cp profile-3d-contrib/*.svg dist/
           cd dist
           git init
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -b output
           git add -A
-          git commit -m "Update snake animation"
+          git commit -m "Update profile images"
           git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/DG-925/DG-925.git
           git push -f origin output
