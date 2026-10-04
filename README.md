@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5722,100:FF9800&height=170&section=header&text=DG&fontSize=64&fontColor=FFFFFF&fontAlignY=32&desc=Full-Stack%20Dev%20%E2%80%A2%20Tool%20Architect%20%E2%80%A2%20Discord%20Plugin%20Engineer&descSize=16&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5722,100:FF9800&height=170&section=header&text=DG&fontSize=64&fontColor=FFFFFF&fontAlignY=32&desc=Full-Stack%20Dev%20%E2%80%A2%20Tool%20Architect&descSize=16&descAlignY=55&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=FF5722&center=true&vCenter=true&width=620&lines=If+it+doesn't+exist%2C+I+build+it+%F0%9F%9B%A0%EF%B8%8F;C%2B%2B+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+C%23;Turning+niche+problems+into+real+tools;Open+for+commissions+%F0%9F%93%AC" alt="Typing SVG" />
 
@@ -21,7 +21,7 @@
 const dg = {
   role:       "Full-Stack Developer & Tool Architect",
   origin:     "Gamer-turned-builder — every bug is a bounty",
-  focus:      ["Desktop apps", "Discord / Vencord plugins", "Web platforms"],
+  focus:      ["Desktop apps", "Dev tools & utilities", "Web platforms"],
   fuel:       ["tea", "coffee", "the urge to fix everything"],
   philosophy: "Build niche tools that save real time for real people.",
   available:  true, // commissions open → logiclegends.dev
@@ -73,23 +73,11 @@ A full-stack **portfolio & commission platform** — showcase work, take request
 </tr>
 </table>
 
-### 🎮 Discord Plugin Suite
-
-Open-source [Vencord](https://github.com/Vendicated/Vencord) plugins — install them straight from Vencord's plugin browser.
-
-| Plugin | What it does |
-|:-------|:-------------|
-| 🌫️ **[Quick-Blur](https://github.com/DG-925/Quick-Blur)** | One hotkey blurs the whole Discord window — instant incognito |
-| ⌨️ **[Mechanical-Keyboard-Sounds](https://github.com/DG-925/Mechanical-Keyboard-Sounds)** | Satisfying mechanical keyboard sounds while you type |
-| 😂 **[RandomEmojiTyper](https://github.com/DG-925/RandomEmojiTyper)** | Appends a random emoji to every message — pure chaos |
-
 ### 🗂️ More Projects
 
 | Project | What it is | Stack |
 |:--------|:-----------|:------|
-| ❌ **[Tic Tac Toe](https://github.com/DG-925/Tic-Tac-Toe)** | Desktop XO game vs. AI with 3 difficulty levels | `Python` `pywebview` `HTML/CSS/JS` |
 | 🔧 **[Steam Desktop Icon Fixer](https://github.com/DG-925/Steam-Desktop-Icon-Fixer)** | Auto-repairs broken Steam shortcut icons after a reinstall | `Python` |
-| 🔌 **[PortManager](https://github.com/DG-925/PortManager)** | See and manage which ports are in use on your machine | `C#` |
 
 ---
 
