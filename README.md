@@ -1,133 +1,190 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7C3AED,100:22D3EE&height=220&section=header&text=Hey,%20I'm%20DG&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=I%20build%20the%20tools%20that%20don't%20exist%20yet&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Hey, I'm DG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:022C22,50:059669,100:34D399&height=240&section=header&text=DG&fontSize=96&fontColor=ECFDF5&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Tool%20Architect&descSize=20&descAlignY=58&animation=twinkling" width="100%" alt="DG — Full-Stack Developer & Tool Architect" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=22D3EE&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%2F%2F+Tool+Architect;Desktop+apps+%E2%80%A2+Dev+tools+%E2%80%A2+Web+platforms;C%2B%2B+%7C+TypeScript+%7C+Python+%7C+C%23;Commissions+open+%E2%86%92+logiclegends.dev" alt="Full-Stack Developer // Tool Architect" />
+<a href="https://logiclegends.dev/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=900&color=34D399&center=true&vCenter=true&width=700&lines=If+it+doesn't+exist%2C+I+build+it+%F0%9F%9B%A0%EF%B8%8F;Desktop+apps+%E2%80%A2+Dev+tools+%E2%80%A2+Web+platforms;C%2B%2B+%7C+TypeScript+%7C+Python+%7C+C%23+%7C+Rust;Every+bug+is+a+bounty+%F0%9F%8E%AF;Commissions+open+%E2%80%94+let's+build+%F0%9F%9A%80" alt="If it doesn't exist, I build it" /></a>
 
-<a href="https://logiclegends.dev/"><img src="https://img.shields.io/badge/logiclegends.dev-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="https://discord.gg/YbCbcrczpf"><img src="https://img.shields.io/badge/Discord-6D28D9?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/DG-925?tab=followers"><img src="https://img.shields.io/github/followers/DG-925?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=0891B2" alt="Followers" /></a>
-<img src="https://img.shields.io/badge/Denmark-06B6D4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Denmark" />
+<br/>
+
+<a href="https://logiclegends.dev/"><img src="https://img.shields.io/badge/Portfolio-logiclegends.dev-10B981?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=064E3B" alt="Portfolio" /></a>
+<a href="https://discord.gg/YbCbcrczpf"><img src="https://img.shields.io/badge/Discord-Join_the_server-10B981?style=for-the-badge&logo=discord&logoColor=white&labelColor=064E3B" alt="Discord" /></a>
+<a href="https://logiclegends.dev/"><img src="https://img.shields.io/badge/Commissions-Open-34D399?style=for-the-badge&logo=handshake&logoColor=white&labelColor=064E3B" alt="Commissions open" /></a>
+<img src="https://img.shields.io/badge/Based_in-Denmark-10B981?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=064E3B" alt="Based in Denmark" />
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:10B981,100:022C22&height=4&section=header" width="100%" alt="" />
 
-## ⚡ Who I Am
-
-- 🧑‍💻 **Full-stack developer & tool architect** based in Denmark
-- 🎮 Gamer-turned-builder — every bug is a bounty
-- 🔭 Currently shipping **[CarrotCam](https://github.com/DG-925/CarrotCam)** and **[LogicLegends](https://logiclegends.dev/)**
-- 🎯 I build niche tools that save real time for real people
-- 💼 **Open for commissions** → [logiclegends.dev](https://logiclegends.dev/)
-- ☕ Powered by tea, coffee and the urge to fix everything
-
-<br/>
-
-## 🛠️ Things I've Built
+## 🧬 About Me
 
 <table>
 <tr>
-<td>
+<td width="55%" valign="top">
 
-### 🥕 [CarrotCam](https://github.com/DG-925/CarrotCam)
-**Your Android phone, as a wireless PC webcam.** No drivers, no cables — just Wi-Fi.
-
-📡 Low-latency MJPEG streaming &nbsp;·&nbsp; 🎥 Virtual camera for Zoom, Discord & OBS &nbsp;·&nbsp; ⏺️ MP4 recording & screenshots &nbsp;·&nbsp; 🎮 Discord Rich Presence &nbsp;·&nbsp; 🔄 Auto-update
-
-<img src="https://img.shields.io/badge/C++-1E1B2E?style=flat-square&logo=cplusplus&logoColor=22D3EE" alt="C++" /> <img src="https://img.shields.io/badge/Qt_6-1E1B2E?style=flat-square&logo=qt&logoColor=22D3EE" alt="Qt 6" /> <img src="https://img.shields.io/badge/FFmpeg-1E1B2E?style=flat-square&logo=ffmpeg&logoColor=22D3EE" alt="FFmpeg" /> <img src="https://img.shields.io/badge/DirectShow-1E1B2E?style=flat-square&logo=windows&logoColor=22D3EE" alt="DirectShow" /> <img src="https://img.shields.io/badge/Android_NDK-1E1B2E?style=flat-square&logo=android&logoColor=22D3EE" alt="Android NDK" />
-
-<a href="https://github.com/DG-925/CarrotCam/releases/latest"><img src="https://img.shields.io/github/v/release/DG-925/CarrotCam?style=flat-square&color=7C3AED&label=latest" alt="Latest release" /></a>
-<a href="https://github.com/DG-925/CarrotCam/releases"><img src="https://img.shields.io/github/downloads/DG-925/CarrotCam/total?style=flat-square&color=0891B2" alt="Downloads" /></a>
-<a href="https://github.com/DG-925/CarrotCam/stargazers"><img src="https://img.shields.io/github/stars/DG-925/CarrotCam?style=flat-square&color=A855F7" alt="Stars" /></a>
-&nbsp;→&nbsp; **[Download for Windows & Android](https://github.com/DG-925/CarrotCam/releases/latest)**
+🟢 **Full-stack developer & tool architect** from Denmark<br/><br/>
+🎮 Gamer-turned-builder — **every bug is a bounty**<br/><br/>
+🔭 Shipping **[CarrotCam](https://github.com/DG-925/CarrotCam)** & **[LogicLegends](https://logiclegends.dev/)**<br/><br/>
+🎯 Building niche tools that save **real time** for **real people**<br/><br/>
+💼 **Open for commissions** → [logiclegends.dev](https://logiclegends.dev/)<br/><br/>
+☕ Fueled by tea, coffee & the urge to fix everything
 
 </td>
-</tr>
-<tr>
-<td>
+<td width="45%" valign="top">
 
-### 🌐 [LogicLegends](https://logiclegends.dev/)
-**A full-stack portfolio & commission platform.** Showcase work, take requests and manage client projects in one place.
-
-🗂️ Project showcase &nbsp;·&nbsp; 📝 Commission requests & tracking &nbsp;·&nbsp; ⚡ Server-rendered on the edge
-
-<img src="https://img.shields.io/badge/Next.js-1E1B2E?style=flat-square&logo=nextdotjs&logoColor=22D3EE" alt="Next.js" /> <img src="https://img.shields.io/badge/React-1E1B2E?style=flat-square&logo=react&logoColor=22D3EE" alt="React" /> <img src="https://img.shields.io/badge/MongoDB-1E1B2E?style=flat-square&logo=mongodb&logoColor=22D3EE" alt="MongoDB" /> <img src="https://img.shields.io/badge/Tailwind-1E1B2E?style=flat-square&logo=tailwindcss&logoColor=22D3EE" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/Vercel-1E1B2E?style=flat-square&logo=vercel&logoColor=22D3EE" alt="Vercel" />
-
-<a href="https://logiclegends.dev/"><img src="https://img.shields.io/website?url=https%3A%2F%2Flogiclegends.dev&style=flat-square&label=status&up_color=7C3AED&up_message=online" alt="Website status" /></a>
-&nbsp;→&nbsp; **[Visit logiclegends.dev](https://logiclegends.dev/)**
-
-</td>
-</tr>
-<tr>
-<td>
-
-### 🔧 [Steam Desktop Icon Fixer](https://github.com/DG-925/Steam-Desktop-Icon-Fixer)
-**Auto-repairs broken Steam shortcut icons after a reinstall.** One run, every icon back.
-
-<img src="https://img.shields.io/badge/Python-1E1B2E?style=flat-square&logo=python&logoColor=22D3EE" alt="Python" />
+```ts
+const dg = {
+  builds: [
+    "desktop apps",
+    "dev tools",
+    "web platforms",
+  ],
+  langs: ["C++", "TS", "Py", "C#"],
+  status: "building 🚀",
+  hireable: true,
+};
+```
 
 </td>
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:10B981,100:022C22&height=4&section=header" width="100%" alt="" />
 
-## 🧪 Toolbox
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🥕 <a href="https://github.com/DG-925/CarrotCam">CarrotCam</a></h3>
+<p align="center"><b>Your Android phone → a wireless PC webcam.</b><br/>No drivers. No cables. Just Wi-Fi.</p>
+
+- 📡 Low-latency MJPEG streaming
+- 🎥 Virtual camera for Zoom, Discord & OBS
+- ⏺️ MP4 recording & one-click screenshots
+- 🎮 Discord Rich Presence
+- 🔄 Built-in auto-update
+
+<p align="center">
+<img src="https://img.shields.io/badge/C++-064E3B?style=flat-square&logo=cplusplus&logoColor=34D399" alt="C++" />
+<img src="https://img.shields.io/badge/Qt_6-064E3B?style=flat-square&logo=qt&logoColor=34D399" alt="Qt 6" />
+<img src="https://img.shields.io/badge/FFmpeg-064E3B?style=flat-square&logo=ffmpeg&logoColor=34D399" alt="FFmpeg" />
+<img src="https://img.shields.io/badge/DirectShow-064E3B?style=flat-square&logo=windows&logoColor=34D399" alt="DirectShow" />
+<img src="https://img.shields.io/badge/Android_NDK-064E3B?style=flat-square&logo=android&logoColor=34D399" alt="Android NDK" />
+</p>
+
+<p align="center">
+<a href="https://github.com/DG-925/CarrotCam/releases/latest"><img src="https://img.shields.io/github/v/release/DG-925/CarrotCam?style=flat-square&color=10B981&label=latest" alt="Latest release" /></a>
+<a href="https://github.com/DG-925/CarrotCam/releases"><img src="https://img.shields.io/github/downloads/DG-925/CarrotCam/total?style=flat-square&color=059669&label=downloads" alt="Downloads" /></a>
+<a href="https://github.com/DG-925/CarrotCam/stargazers"><img src="https://img.shields.io/github/stars/DG-925/CarrotCam?style=flat-square&color=34D399" alt="Stars" /></a>
+</p>
+
+<p align="center"><a href="https://github.com/DG-925/CarrotCam/releases/latest"><img src="https://img.shields.io/badge/Download-Windows_%26_Android-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=064E3B" alt="Download CarrotCam" /></a></p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 <a href="https://logiclegends.dev/">LogicLegends</a></h3>
+<p align="center"><b>Portfolio & commission platform.</b><br/>Showcase work, take requests, manage clients.</p>
+
+- 🗂️ Project showcase & portfolio
+- 📝 Commission requests & tracking
+- 👥 Client project management
+- ⚡ Server-rendered on the edge
+
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-064E3B?style=flat-square&logo=nextdotjs&logoColor=34D399" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-064E3B?style=flat-square&logo=react&logoColor=34D399" alt="React" />
+<img src="https://img.shields.io/badge/MongoDB-064E3B?style=flat-square&logo=mongodb&logoColor=34D399" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Tailwind-064E3B?style=flat-square&logo=tailwindcss&logoColor=34D399" alt="TailwindCSS" />
+<img src="https://img.shields.io/badge/Vercel-064E3B?style=flat-square&logo=vercel&logoColor=34D399" alt="Vercel" />
+</p>
+
+<p align="center">
+<a href="https://logiclegends.dev/"><img src="https://img.shields.io/website?url=https%3A%2F%2Flogiclegends.dev&style=flat-square&label=status&up_color=10B981&up_message=online" alt="Website status" /></a>
+</p>
+
+<p align="center"><a href="https://logiclegends.dev/"><img src="https://img.shields.io/badge/Visit-logiclegends.dev-10B981?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=064E3B" alt="Visit LogicLegends" /></a></p>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+🔧 **[Steam Desktop Icon Fixer](https://github.com/DG-925/Steam-Desktop-Icon-Fixer)** — auto-repairs broken Steam shortcut icons after a reinstall &nbsp;<img src="https://img.shields.io/badge/Python-064E3B?style=flat-square&logo=python&logoColor=34D399" alt="Python" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:10B981,100:022C22&height=4&section=header" width="100%" alt="" />
+
+## 🧰 Tech Arsenal
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,cs,ts,js,py,rust,html,css,qt,androidstudio,windows,nextjs,react,nodejs,tailwind,mongodb,git,github,vercel,vscode&perline=10&theme=light" />
-  <img alt="C++, C#, TypeScript, JavaScript, Python, Rust, HTML, CSS, Qt, Android Studio, Windows, Next.js, React, Node.js, Tailwind, MongoDB, Git, GitHub, Vercel, VS Code" src="https://skillicons.dev/icons?i=cpp,cs,ts,js,py,rust,html,css,qt,androidstudio,windows,nextjs,react,nodejs,tailwind,mongodb,git,github,vercel,vscode&perline=10&theme=dark" />
-</picture>
+<b>Languages</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=cpp,cs,ts,js,py,rust,html,css&theme=dark" alt="C++, C#, TypeScript, JavaScript, Python, Rust, HTML, CSS" />
+
+<br/><br/><b>Frameworks & Platforms</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=qt,androidstudio,windows,nextjs,react,nodejs,tailwind,mongodb&theme=dark" alt="Qt, Android Studio, Windows, Next.js, React, Node.js, Tailwind, MongoDB" />
+
+<br/><br/><b>Tools</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" alt="Git, GitHub, Vercel, VS Code" />
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:10B981,100:022C22&height=4&section=header" width="100%" alt="" />
 
-## 📈 Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api?username=DG-925&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&icon_color=0891B2&text_color=1F2937&ring_color=7C3AED&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=DG-925&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=E5E7EB&ring_color=A855F7&include_all_commits=true&count_private=true&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api?username=DG-925&show_icons=true&hide_border=true&bg_color=ECFDF5&title_color=047857&icon_color=10B981&text_color=064E3B&ring_color=10B981&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=DG-925&show_icons=true&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=10B981&text_color=D1FAE5&ring_color=34D399&include_all_commits=true&count_private=true&rank_icon=github" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=DG-925&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=1F2937&langs_count=8" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=DG-925&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=DG-925&layout=compact&hide_border=true&bg_color=ECFDF5&title_color=047857&text_color=064E3B&langs_count=8" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=DG-925&layout=compact&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=D1FAE5&langs_count=8" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=DG-925&hide_border=true&background=FFFFFF&stroke=7C3AED&ring=7C3AED&fire=0891B2&currStreakNum=1F2937&sideNums=1F2937&currStreakLabel=7C3AED&sideLabels=1F2937&dates=6B7280" />
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=DG-925&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=22D3EE&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=A855F7&sideLabels=E5E7EB&dates=9CA3AF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=DG-925&hide_border=true&background=ECFDF5&stroke=10B981&ring=10B981&fire=047857&currStreakNum=064E3B&sideNums=064E3B&currStreakLabel=047857&sideLabels=064E3B&dates=047857" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=DG-925&hide_border=true&background=0D1117&stroke=34D399&ring=34D399&fire=10B981&currStreakNum=D1FAE5&sideNums=D1FAE5&currStreakLabel=34D399&sideLabels=D1FAE5&dates=6EE7B7" />
 </picture>
 
-<img width="100%" alt="3D contribution graph" src="https://raw.githubusercontent.com/DG-925/DG-925/output/profile-night-view.svg" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DG-925/DG-925/output/profile-green-animate.svg" />
+  <img width="100%" alt="3D contribution graph" src="https://raw.githubusercontent.com/DG-925/DG-925/output/profile-night-green.svg" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DG-925/DG-925/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/DG-925/DG-925/output/github-snake-dark.svg" />
+  <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/DG-925/DG-925/output/github-snake-dark.svg" />
 </picture>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:10B981,100:022C22&height=4&section=header" width="100%" alt="" />
 
 <div align="center">
 
-> **If a problem exists, there's always a way to code a solution.**<br/>
-> **If it doesn't exist — build it anyway.**<br/>
-> <sub>— DG's Law</sub>
+<br/>
 
-Got an idea nobody has built yet? Let's make it real.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1500&color=6EE7B7&center=true&vCenter=true&multiline=true&width=680&height=60&lines=%22If+a+problem+exists%2C+there's+always+a+way+to+code+a+solution.;If+it+doesn't+exist+%E2%80%94+build+it+anyway.%22+%E2%80%94+DG's+Law" alt="If a problem exists, there's always a way to code a solution. If it doesn't exist — build it anyway. — DG's Law" />
 
-<a href="https://logiclegends.dev/"><img src="https://img.shields.io/badge/Start_a_commission-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" alt="Start a commission" /></a>
-<a href="https://discord.gg/YbCbcrczpf"><img src="https://img.shields.io/badge/Say_hi_on_Discord-0891B2?style=for-the-badge&logo=discord&logoColor=white" alt="Say hi on Discord" /></a>
+<br/><br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=DG-925.DG-925&left_text=profile%20views&left_color=1E1B2E&right_color=7C3AED" alt="Profile views" />
+### 🚀 Got an idea nobody has built yet?
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:7C3AED&height=120&section=footer" width="100%" alt="" />
+<a href="https://logiclegends.dev/"><img src="https://img.shields.io/badge/Start_a_Commission-10B981?style=for-the-badge&logo=rocket&logoColor=white" alt="Start a commission" /></a>
+<a href="https://discord.gg/YbCbcrczpf"><img src="https://img.shields.io/badge/Chat_on_Discord-064E3B?style=for-the-badge&logo=discord&logoColor=34D399" alt="Chat on Discord" /></a>
+
+<br/><br/>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=DG-925.DG-925&left_text=profile%20views&left_color=064E3B&right_color=10B981" alt="Profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34D399,50:059669,100:022C22&height=140&section=footer&animation=twinkling" width="100%" alt="" />
 
 </div>
